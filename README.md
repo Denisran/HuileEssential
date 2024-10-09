@@ -1,3 +1,4 @@
+
 <p align="center">
     <a href="https://sylius.com" target="_blank">
         <picture>
@@ -84,3 +85,7 @@ Sylius is completely free and released under the [MIT License](https://github.co
 
 Sylius was originally created by [Paweł Jędrzejewski](http://pjedrzejewski.com).
 See the list of [contributors from our awesome community](https://github.com/Sylius/Sylius/contributors).
+=======
+# HuileEssential
+Projet huile essentielle développé avec Sylius
+
