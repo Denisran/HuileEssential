@@ -1,0 +1,14 @@
+{
+    "name": "bitbag/blue-theme",
+    "authors": [
+        {
+            "name": "Dan Smith",
+            "email": "dan.smith@example.com"
+        }
+    ],
+    "extra": {
+        "sylius-theme": {
+            "title": "Blue Theme"
+        }
+    }
+}
